@@ -1,0 +1,17 @@
+import java.util.Scanner;
+class A{
+public stataic void main(String args[]){
+Scanner sc= new Scanner(System.in);
+String str=new String();
+str= "Shefali";
+len=str.length();
+system.out.println("lenght of your name is" + len)
+for(int i=0; i<str.length;i++){
+if(str.indexOf('a')){
+count++;
+system.out.println(" a found at " + i +"th position");
+}
+}
+system.out.println(" a found at " + count +"times");
+}
+}
