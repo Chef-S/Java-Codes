@@ -1,0 +1,7 @@
+import user.myclass;
+class show{
+public static void main()
+myclass d1 =new myclass();
+d1.demo();
+}
+}

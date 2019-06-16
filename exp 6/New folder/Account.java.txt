@@ -1,0 +1,7 @@
+package Balance;
+class Account{
+Display_Balance 
+{
+System.out.print("Balance is  100");
+}
+}
