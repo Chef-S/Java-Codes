@@ -1,0 +1,16 @@
+interface test{
+public square();
+}
+
+class Arith implements test{
+public void square(){
+
+}
+}
+class ToTestInt{
+public static void main(){
+
+ Arith a1=new Airth();
+a1.sqare(2);
+}
+} 
