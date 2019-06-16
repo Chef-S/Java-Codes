@@ -1,0 +1,36 @@
+import java.util.*;
+class worker{
+int i;
+worker(){
+Scanner sc= new Scanner();
+String name;
+name=sc.nextLine();
+System.out.println("enter the name of the employee"+name);
+
+}
+ComPay(float week){
+ int wage1;
+wage1 = 40*7*week;
+System.out.println(wage1);
+}
+ComPay(int day){
+  int wage2;
+  wage2=day*800:
+System.out.println(wage2);
+} 
+}
+
+SalariedWorker extends worker{
+
+void show1()
+{System.out.println("wage of salaried worker is"+wage1);}
+}
+DailyWorker extends worker{
+void show2{
+System.out.println("wage of  daily worker is"+wage2);}
+}
+class workerdr{
+public static void main(Stringn args[]){
+SalariedWorker=SalariedWorker();
+DailyWorker= new DailyWorker(); 
+}
