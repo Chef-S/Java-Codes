@@ -1,0 +1,6 @@
+package p1;
+class OperandException{
+ OperandException(String S)"{
+super (S);
+}
+}
